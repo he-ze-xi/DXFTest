@@ -11,7 +11,7 @@ namespace TestDXF
 	{
 		protected override Window CreateShell()
 		{
-			return Container.Resolve<Window1>();
+			return Container.Resolve<MainWindow>();
 		}
 
 		protected override void RegisterTypes(IContainerRegistry containerRegistry)
