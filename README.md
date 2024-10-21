@@ -1,1 +1,1 @@
-A DXF viewerthat can parse lines, circles, and arcs.
+A DXF viewer that can parse lines, circles, and arcs.
